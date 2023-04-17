@@ -1,9 +1,10 @@
-# Electron and React Tutorial
+# ZLab:
+## A Qlab Clone built in Electron
 
 [guide referenced](https://www.section.io/engineering-education/desktop-application-with-react/)
 
 
-## Dev
+## Development
 To run the app locally:
 
 ```
